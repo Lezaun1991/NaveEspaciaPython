@@ -76,5 +76,29 @@ Este es el estado final del juego, que se activa cuando un enemigo llega a la pa
 
 El juego finaliza si una nave enemiga llega al borde inferior de la pantalla.
 
+## Probar la Demo
+
+Puedes descargar la demo del juego haciendo clic en el siguiente enlace:
+
+[Descargar Demo Juego](https://github.com/Lezaun1991/NaveEspaciaPython/blob/main/Juego_nave.zip)
+
+Después de descargarlo, extrae el contenido en una carpeta y ejecuta el archivo `main.exe` para iniciar el juego.
+
+## Importante
+
+### Compatibilidad
+
+Este juego ha sido diseñado para funcionar únicamente en sistemas operativos **Windows**. Asegúrate de ejecutar el juego en un entorno Windows para una experiencia óptima.
+
+### Aviso de Antivirus
+
+Al ejecutar el archivo `NaveEspacial.exe`, es posible que tu antivirus emita una advertencia de amenaza. Esto puede ocurrir por las siguientes razones:
+
+- **Uso de PyInstaller**: El ejecutable ha sido creado utilizando PyInstaller, lo que a veces puede hacer que ciertos antivirus lo detecten como un posible riesgo debido a la forma en que empaqueta los archivos.
+- **Recursos Externos**: El juego utiliza fuentes de letra, imágenes y otros recursos externos que pueden ser reconocidos erróneamente como amenazas por algunos programas de seguridad.
+
+Gracias por tu comprensión y ¡disfruta del juego!
+
+
 ## Créditos
 Este juego fue desarrollado por Víctor Alarcón Lezaun usando Pygame.
