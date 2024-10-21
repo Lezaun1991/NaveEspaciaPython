@@ -1,0 +1,16 @@
+# Ignorar carpetas __pycache__ y archivos .pyc
+__pycache__/
+*.pyc
+
+# Ignorar archivos comprimidos
+*.zip
+
+# Ignorar carpetas de build y dist
+build/
+dist/
+
+# Ignorar entornos virtuales (si los tienes)
+venv/
+.env/
+# Ignorar archivo main.spec
+main.spec
