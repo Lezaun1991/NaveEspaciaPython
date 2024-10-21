@@ -58,5 +58,17 @@ Sonido de Impacto: Al destruir un enemigo, escucharás un sonido de impacto.
     * disparo.mp3: Sonido de disparo.
     * Golpe.mp3: Sonido de impacto.
     * game-over-160612.mp3: Sonido de fin del juego.
+ 
+## Estado del Juego
+A continuación, se muestran las imágenes del juego en diferentes estados:
+
+Estado inicial del juego (ImagenesJuegos/InicioJuego.png)
+
+La nave disparando a los enemigos (ImagenesJuegos/impactoBala.png)
+
+Estado cuando el juego termina (ImagenesJuegos/finJuego.png)
+
+El juego finaliza si una nave enemiga llega al borde inferior de la pantalla.
+
 ## Créditos
 Este juego fue desarrollado por Víctor Alarcón Lezaun usando Pygame.
