@@ -2,9 +2,6 @@
 __pycache__/
 *.pyc
 
-# Ignorar archivos comprimidos
-*.zip
-
 # Ignorar carpetas de build y dist
 build/
 dist/
