@@ -62,11 +62,11 @@ Sonido de Impacto: Al destruir un enemigo, escucharás un sonido de impacto.
 ## Estado del Juego
 A continuación, se muestran las imágenes del juego en diferentes estados:
 
-Estado inicial del juego (ImagenesJuego/InicioJuego.png)
+![Estado inicial del juego](ImagenesJuego/InicioJuego.png)
 
-La nave disparando a los enemigos (ImagenesJuego/impactoBala.png)
+![La nave disparando a los enemigos](ImagenesJuego/impactoBala.png)
 
-Estado cuando el juego termina (ImagenesJuego/finJuego.png)
+![Estado cuando el juego termina](ImagenesJuego/finJuego.png)
 
 El juego finaliza si una nave enemiga llega al borde inferior de la pantalla.
 
