@@ -80,7 +80,7 @@ El juego finaliza si una nave enemiga llega al borde inferior de la pantalla.
 
 Puedes descargar la demo del juego haciendo clic en el siguiente enlace:
 
-[Descargar Demo Juego](https://github.com/Lezaun1991/NaveEspaciaPython/blob/main/Juego_nave.zip)
+[Descargar Demo Juego](https://github.com/Lezaun1991/NaveEspaciaPython/raw/refs/heads/main/Juego_nave.zip)
 
 Después de descargarlo, extrae el contenido en una carpeta y ejecuta el archivo `main.exe` para iniciar el juego.
 
