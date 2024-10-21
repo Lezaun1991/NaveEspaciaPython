@@ -72,7 +72,6 @@ balas = []
 icono_bala = pygame.image.load("assets/bala.png")
 bala_x = 0
 bala_y = 500
-bala_y_cambio = 5
 bala_visible = False
 
 # VARIABLE PUNTAJE
